@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\ECEN-5730 PCB Design\Board2\Project Outputs for Board2\Pick Place for ECEN5730_BRD2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/02/22
+Time:       02:35
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U3","74HC14D,653","TopLayer","HEX_74AC14","2380.000","850.000","0","Inverter IC 6 Channel Schmitt Trigger 14-SOIC"
+"U2","74HC14D,653","TopLayer","HEX_74AC14","755.000","510.000","0","Inverter IC 6 Channel Schmitt Trigger 14-SOIC"
+"U1","LMC555CMX/NOPB","TopLayer","TS555IDTTR","2325.000","1700.000","90","555 Type, Timer/Oscillator _Single_ IC 3MHz 8-SO"
+"TP11","10x Probe TP","TopLayer","TP10x_Probe","2920.000","230.000","0","Test Point 300 mil centers"
+"TP10","10x Probe TP","TopLayer","TP10x_Probe","2340.000","230.000","0","Test Point 300 mil centers"
+"TP9","10x Probe TP","TopLayer","TP10x_Probe","1100.000","1475.000","180","Test Point 300 mil centers"
+"TP8","10x Probe TP","TopLayer","TP10x_Probe","2330.000","480.000","0","Test Point 300 mil centers"
+"TP7","10x Probe TP","TopLayer","TP10x_Probe","1930.000","490.000","270","Test Point 300 mil centers"
+"TP6","10x Probe TP","TopLayer","TP10x_Probe","610.000","160.000","0","Test Point 300 mil centers"
+"TP5","10x Probe TP","TopLayer","TP10x_Probe","1930.000","1030.000","270","Test Point 300 mil centers"
+"TP4","10x Probe TP","TopLayer","TP10x_Probe","160.000","290.000","270","Test Point 300 mil centers"
+"TP3","10x Probe TP","TopLayer","TP10x_Probe","160.000","830.000","270","Test Point 300 mil centers"
+"TP2","TP_5V","TopLayer","TP10x_Probe","405.000","1475.000","180","Test Point 300 mil centers"
+"TP1","TP_555_Output","TopLayer","TP10x_Probe","1880.000","1530.000","180","Test Point 300 mil centers"
+"SW4","SW_2Pin_100mil_Switch","TopLayer","2Pin-Header-Conn","2930.000","670.000","0","2Pin Header"
+"SW3","SW_2Pin_100mil_Switch","TopLayer","2Pin-Header-Conn","2360.000","1190.000","180","2Pin Header"
+"SW2","SW_2Pin_100mil_Switch","TopLayer","2Pin-Header-Conn","1400.000","1190.000","0","2Pin Header"
+"SW1","SW_555_On/Off","TopLayer","2Pin-Header-Conn","1950.000","2000.000","0","2Pin Header"
+"R12","50 Ohms","TopLayer","0402_Passive_Resistor","3160.000","680.000","0","CHIP RESISTOR - SURFACE MOUNT 49.9OHMS ±1% 1/16W 0402 ROHS"
+"R11","50 Ohms","TopLayer","0402_Passive_Resistor","2930.315","800.000","0","CHIP RESISTOR - SURFACE MOUNT 49.9OHMS ±1% 1/16W 0402 ROHS"
+"R10","50 Ohms","TopLayer","0402_Passive_Resistor","2920.000","900.000","0","CHIP RESISTOR - SURFACE MOUNT 49.9OHMS ±1% 1/16W 0402 ROHS"
+"R9","10k","TopLayer","0402_Passive_Resistor","2590.000","1160.315","90","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R8","50 Ohms","TopLayer","0402_Passive_Resistor","1309.685","360.000","0","CHIP RESISTOR - SURFACE MOUNT 49.9OHMS ±1% 1/16W 0402 ROHS"
+"R7","50 Ohms","TopLayer","0402_Passive_Resistor","1309.685","460.000","0","CHIP RESISTOR - SURFACE MOUNT 49.9OHMS ±1% 1/16W 0402 ROHS"
+"R6","50 Ohms","TopLayer","0402_Passive_Resistor","1309.685","560.000","0","CHIP RESISTOR - SURFACE MOUNT 49.9OHMS ±1% 1/16W 0402 ROHS"
+"R5","10k","TopLayer","0402_Passive_Resistor","1330.000","1040.000","0","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R4","1k","TopLayer","0805_Passive_Resistor","2407.401","1960.000","180","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/8W 0805 ROHS"
+"R3","1k","TopLayer","0805_Passive_Resistor","2257.401","1960.000","180","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/8W 0805 ROHS"
+"R2","1k","TopLayer","0805_Passive_Resistor","910.000","1762.598","270","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/8W 0805 ROHS"
+"R1","1k","TopLayer","0805_Passive_Resistor","1570.000","1702.598","270","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/8W 0805 ROHS"
+"PS1","AMS1117-3.3","TopLayer","LDO","1200.000","1890.000","0","LOW DROPOUT REGULATORS(LDO) POSITIVE FIXED 1.3V @ 800MA 15V 3.3V 1A SOT-223 ROHS"
+"P1","Power Jack","TopLayer","Power_Jack","451.890","1858.465","180","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle"
+"LED8","KT-0603R","TopLayer","LED_0603","2690.000","700.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED7","KT-0603R","TopLayer","LED_0603","2700.000","800.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED6","KT-0603R","TopLayer","LED_0603","2700.000","900.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED5","KT-0603R","TopLayer","LED_0603","1159.527","360.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED4","KT-0603R","TopLayer","LED_0603","1159.527","460.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED3","KT-0603R","TopLayer","LED_0603","1159.527","560.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED2","KT-0603R","TopLayer","LED_0603","910.000","1919.527","270","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED1","KT-0603R","TopLayer","LED_0603","1570.000","1980.472","270","LIGHT EMITTING DIODES (LED) GREEN 520~535NM 112~258MCD@20MA TOP VIEW 0603 ROHS"
+"C6","22uF","TopLayer","0805_Passive_Capaciitor","2660.000","1000.000","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"
+"C5","22uF","TopLayer","0805_Passive_Capaciitor","950.000","1270.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"
+"C4","1uF","TopLayer","0402_Passive_Capacitor","2539.685","1960.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C3","22uF","TopLayer","0805_Passive_Capaciitor","790.000","1912.598","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"
+"C2","22uF","TopLayer","0805_Passive_Capaciitor","1440.000","1972.598","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"
+"C1","22uF","TopLayer","0805_Passive_Capaciitor","2132.598","1820.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"

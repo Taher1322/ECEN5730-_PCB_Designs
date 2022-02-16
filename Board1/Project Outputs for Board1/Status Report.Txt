@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Board1.PrjPcb]
+   Generated File[Pick Place for ECEN5730_brd1a_2022-01-17.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:45:17 PM On 1/19/2022

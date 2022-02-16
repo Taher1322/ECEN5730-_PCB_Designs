@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\ECEN-5730 PCB Design\Board2\PCB1.PcbDoc
+Date     : 2/10/2022
+Time     : 1:15:33 AM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad P1-1(570mil,1950mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad P1-2(333.779mil,1950mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+Rule Violations :2
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (9.058mil < 10mil) Between Text "C1" (2085mil,1895mil) on Top Overlay And Track (1832.28mil,1950mil)(2067.72mil,1950mil) on Top Overlay Silk Text to Silk Clearance [9.058mil]
+   Violation between Silk To Silk Clearance Constraint: (9.058mil < 10mil) Between Text "C1" (2085mil,1895mil) on Top Overlay And Track (2067.72mil,1950mil)(2067.72mil,2049.65mil) on Top Overlay Silk Text to Silk Clearance [9.058mil]
+   Violation between Silk To Silk Clearance Constraint: (2.519mil < 10mil) Between Text "C5" (902mil,1345mil) on Top Overlay And Track (890mil,1420mil)(1310mil,1420mil) on Top Overlay Silk Text to Silk Clearance [2.519mil]
+   Violation between Silk To Silk Clearance Constraint: (8.673mil < 10mil) Between Text "C6" (2720mil,1047.175mil) on Top Overlay And Track (2605mil,1042mil)(2715mil,1042mil) on Top Overlay Silk Text to Silk Clearance [8.673mil]
+   Violation between Silk To Silk Clearance Constraint: (2.374mil < 10mil) Between Text "LED3" (1029.055mil,587.35mil) on Top Overlay And Track (1119.527mil,593mil)(1198.527mil,593mil) on Top Overlay Silk Text to Silk Clearance [2.375mil]
+   Violation between Silk To Silk Clearance Constraint: (2.002mil < 10mil) Between Text "LED7" (2770mil,817.188mil) on Top Overlay And Track (2763mil,783mil)(2763mil,817mil) on Top Overlay Silk Text to Silk Clearance [2.002mil]
+   Violation between Silk To Silk Clearance Constraint: (7.237mil < 10mil) Between Text "R11" (2952.505mil,837.138mil) on Top Overlay And Track (2887mil,873mil)(2957mil,873mil) on Top Overlay Silk Text to Silk Clearance [7.237mil]
+   Violation between Silk To Silk Clearance Constraint: (7.138mil < 10mil) Between Text "R11" (2952.505mil,837.138mil) on Top Overlay And Track (2897.315mil,827mil)(2967.315mil,827mil) on Top Overlay Silk Text to Silk Clearance [7.138mil]
+   Violation between Silk To Silk Clearance Constraint: (6.975mil < 10mil) Between Text "R5" (1300mil,1077.4mil) on Top Overlay And Track (1297mil,1067mil)(1367mil,1067mil) on Top Overlay Silk Text to Silk Clearance [6.975mil]
+   Violation between Silk To Silk Clearance Constraint: (7.188mil < 10mil) Between Text "R7" (1279.035mil,397.188mil) on Top Overlay And Track (1276.685mil,387mil)(1346.685mil,387mil) on Top Overlay Silk Text to Silk Clearance [7.188mil]
+   Violation between Silk To Silk Clearance Constraint: (7.188mil < 10mil) Between Text "R7" (1279.035mil,397.188mil) on Top Overlay And Track (1276.685mil,433mil)(1346.685mil,433mil) on Top Overlay Silk Text to Silk Clearance [7.188mil]
+   Violation between Silk To Silk Clearance Constraint: (6.925mil < 10mil) Between Text "R8" (1279.325mil,297.35mil) on Top Overlay And Track (1276.685mil,333mil)(1346.685mil,333mil) on Top Overlay Silk Text to Silk Clearance [6.925mil]
+   Violation between Silk To Silk Clearance Constraint: (8.852mil < 10mil) Between Text "TP10" (2132mil,322mil) on Top Overlay And Track (2267.5mil,400mil)(2292.5mil,400mil) on Top Overlay Silk Text to Silk Clearance [8.852mil]
+   Violation between Silk To Silk Clearance Constraint: (3.609mil < 10mil) Between Text "TP10" (2132mil,322mil) on Top Overlay And Track (2275.228mil,385mil)(2282.5mil,385mil) on Top Overlay Silk Text to Silk Clearance [3.609mil]
+   Violation between Silk To Silk Clearance Constraint: (9.519mil < 10mil) Between Text "TP4" (70mil,538mil) on Top Overlay And Track (105mil,620mil)(105mil,635mil) on Top Overlay Silk Text to Silk Clearance [9.519mil]
+   Violation between Silk To Silk Clearance Constraint: (9.519mil < 10mil) Between Text "TP4" (70mil,538mil) on Top Overlay And Track (105mil,620mil)(215mil,620mil) on Top Overlay Silk Text to Silk Clearance [9.519mil]
+   Violation between Silk To Silk Clearance Constraint: (9.519mil < 10mil) Between Text "TP7" (1840mil,738mil) on Top Overlay And Track (1875mil,820mil)(1875mil,835mil) on Top Overlay Silk Text to Silk Clearance [9.519mil]
+   Violation between Silk To Silk Clearance Constraint: (9.519mil < 10mil) Between Text "TP7" (1840mil,738mil) on Top Overlay And Track (1875mil,820mil)(1985mil,820mil) on Top Overlay Silk Text to Silk Clearance [9.519mil]
+   Violation between Silk To Silk Clearance Constraint: (9.519mil < 10mil) Between Text "TP7" (1840mil,738mil) on Top Overlay And Track (1985mil,820mil)(1985mil,1240mil) on Top Overlay Silk Text to Silk Clearance [9.519mil]
+Rule Violations :19
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 21
+Waived Violations : 0
+Time Elapsed        : 00:00:01
