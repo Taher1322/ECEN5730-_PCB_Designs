@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=USB1-B5
+Added Net: Name=NetR12_1
+Added Room: Name=Schematics
