@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Board3_Golden_Arduino_Version2.PrjPcb]
+   Generated File[Pick Place for Board3_V2_Layout.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:10:25 AM On 4/1/2022

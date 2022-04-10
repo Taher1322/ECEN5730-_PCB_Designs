@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=TP1_JACK NewDesignator=TP1
+Change Component Designator: OldDesignator=TP2_USB NewDesignator=TP2
+Change Component Designator: OldDesignator=TP3_3V3 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP4_D+ NewDesignator=TP4
+Change Component Designator: OldDesignator=TP5_D- NewDesignator=TP5
+Change Component Designator: OldDesignator=TP6_CHRX NewDesignator=TP6
+Change Component Designator: OldDesignator=TP7_CHTX NewDesignator=TP7
+Added Component: Designator=R13(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT300R/RMCF1206JT300RCT-ND/1942776/?itemSeq=304982374"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "RMCF1206JT300RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R14(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT300R/RMCF1206JT300RCT-ND/1942776/?itemSeq=304982374"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "RMCF1206JT300RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP10x_Probe)
+Added Component: Designator=TP9(TP10x_Probe)
+Added Pin To Net: NetName=NetC4_2 Pin=R13-1
+Added Pin To Net: NetName=NetC5_2 Pin=R13-2
+Added Pin To Net: NetName=NetC6_1 Pin=R14-1
+Added Pin To Net: NetName=NetC7_2 Pin=R14-2
+Added Pin To Net: NetName=NetC5_2 Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Pin To Net: NetName=NetC7_2 Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=TP9-2
+Added Pin To Net: NetName=GND Pin=TP9-2
+Added Pin To Net: NetName=GND Pin=TP9-2
+Added Member To Class: ClassName=Schematics Member=Component R13 10k
+Added Member To Class: ClassName=Schematics Member=Component R14 10k
+Added Member To Class: ClassName=Schematics Member=Component TP8 10x Probe TP
+Added Member To Class: ClassName=Schematics Member=Component TP9 10x Probe TP
+Added Room: Name=Schematics

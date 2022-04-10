@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\ECEN-5730 PCB Design\Board3_Golden_Arduino_Version2\Board3_V2_Layout.PcbDoc
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=Schematic width constraints|Scope=Board|Minimum=20.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Schematics Width Constraints|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,25 @@
+Added Component: Designator=TP4(TP10x_Probe)
+Added Component: Designator=TP5(TP10x_Probe)
+Added Component: Designator=TP6(TP10x_Probe)
+Added Component: Designator=TP7(TP10x_Probe)
+Added Pin To Net: NetName=D+ Pin=TP4-1
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=D- Pin=TP5-1
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=CH340_RX Pin=TP6-1
+Added Pin To Net: NetName=GND Pin=TP6-2
+Added Pin To Net: NetName=GND Pin=TP6-2
+Added Pin To Net: NetName=GND Pin=TP6-2
+Added Pin To Net: NetName=CH340_TX Pin=TP7-1
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Member To Class: ClassName=Schematics Member=Component TP4 10x Probe TP
+Added Member To Class: ClassName=Schematics Member=Component TP5 10x Probe TP
+Added Member To Class: ClassName=Schematics Member=Component TP6 10x Probe TP
+Added Member To Class: ClassName=Schematics Member=Component TP7 10x Probe TP
+Added Room: Name=Schematics
