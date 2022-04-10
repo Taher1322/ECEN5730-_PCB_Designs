@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Board4_Sensor_Shield_UNO.PrjPcb]
+   Generated File[Layout.GTO]
+   Generated File[Layout.GTP]
+   Generated File[Layout.GTS]
+   Generated File[Layout.GTL]
+   Generated File[Layout.GP1]
+   Generated File[Layout.GP2]
+   Generated File[Layout.GBL]
+   Generated File[Layout.GBS]
+   Generated File[Layout.GBP]
+   Generated File[Layout.GBO]
+   Generated File[Layout.GKO]
+   Generated File[Layout.RUL]
+   Generated File[Layout.EXTREP]
+   Generated File[Layout.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 4:13:13 AM On 4/1/2022
